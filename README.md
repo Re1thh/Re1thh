@@ -1,43 +1,50 @@
-# Hi, I'm Revanth Reddy 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header-light.svg" width="100%" alt="Revanth Reddy. Full-stack developer · Java · Spring Boot · React" />
+</picture>
 
-### Full-Stack Developer · Java · Spring Boot · React
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=6B6BFF&vCenter=true&width=600&height=40&lines=Java+%C2%B7+Spring+Boot+%C2%B7+React;Building+full-stack+web+applications;Open+to+full-stack+roles" alt="Java · Spring Boot · React. Building full-stack web applications. Open to full-stack roles." />
 
-<p>
-  <a href="https://www.linkedin.com/in/revanth-reddy-thipparthi-348506274/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-</p>
+I'm Revanth, an Associate Software Developer at Mercedes-Benz Research and Development India in Bengaluru. I build full-stack web applications with Java and Spring Boot on the backend and React and TypeScript on the frontend. I'm open to Full-Stack Developer, Software Engineer and Java Full-Stack roles.
 
-I build clean, reliable web applications—from responsive interfaces to Java-based backend services and REST APIs.
+### Selected work
 
-## About me
+<!-- One-liners: edit the description text in each row below. -->
 
-- 💼 Associate Software Developer at Mercedes-Benz Research and Development India
-- 📍 Based in Bengaluru, India
-- 🎯 Open to Full-Stack Developer, Software Engineer, and Java Full-Stack Developer opportunities
-- 🌱 Focused on scalable, maintainable web applications
+| Project | What it is |
+| --- | --- |
+| [**FoodRecipeApp**](https://github.com/Re1thh/FoodRecipeApp) | Recipe search page that queries the Edamam API and shows results as cards. Built in 2023 while learning React.<br /><sub>React · JavaScript · Tailwind</sub> |
+| [**bankLoan**](https://github.com/Re1thh/bankLoan) | Spring Boot REST API training exercise for sanctioning home and car loans and reporting loans by type.<br /><sub>Java · Spring Boot · JPA · Maven</sub> |
+| [**formvalidation**](https://github.com/Re1thh/formvalidation) | Small form validated with React Hook Form and Yup, built as a React and TypeScript exercise.<br /><sub>React · TypeScript · React Hook Form · Yup</sub> |
 
-## Tech stack
+### Currently exploring
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+Open-source projects I've forked to read and learn from. These are not my own work; credit goes to the upstream authors.
 
-## Featured work
+- [**ta4j**](https://github.com/Re1thh/ta4j), by ta4j/ta4j: a Java technical-analysis library. Studying its indicator and backtesting API design.
+- [**lightweight-charts**](https://github.com/Re1thh/lightweight-charts), by tradingview: a charting library. Studying its canvas rendering and TypeScript API.
+- [**realworld-springboot-java**](https://github.com/Re1thh/realworld-springboot-java), by raeperd: a Spring Boot RealWorld backend. Studying its layering, security setup and tests.
+- [**spring-petclinic-microservices**](https://github.com/Re1thh/spring-petclinic-microservices), by spring-petclinic: Spring Cloud microservices. Studying service discovery, config and gateway patterns.
+- [**local-deep-researcher**](https://github.com/Re1thh/local-deep-researcher), by langchain-ai: a local LLM research agent. Studying how the agent loop is structured.
+- [**evidence**](https://github.com/Re1thh/evidence), by evidence-dev: BI as code. Studying its SQL-plus-Markdown reporting model.
+- [**bulletproof-react**](https://github.com/Re1thh/bulletproof-react), by alan2207: React architecture. Studying feature-based project structure.
+- [**DevOps-Projects**](https://github.com/Re1thh/DevOps-Projects), by NotHarshhaa: a collection of DevOps projects. Studying CI/CD and deployment workflows.
 
-| Project | Summary | Stack |
-| --- | --- | --- |
-| [Food Recipe App](https://github.com/Re1thh/FoodRecipeApp) | Recipe app interface. | React, JavaScript, Tailwind CSS |
-| [Bank Loan](https://github.com/Re1thh/bankLoan) | Java/Maven application exploring a bank-loan domain. | Java, Maven |
-| [Portfolio](https://github.com/Re1thh/portfolio) | Personal developer portfolio. | React, JavaScript, HTML, CSS |
+### Stack
 
-## Let's connect
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,maven,tailwind,git" alt="Java, Spring Boot, React, TypeScript, JavaScript, Maven, Tailwind CSS, Git" />
 
-If you are hiring for a full-stack engineering role, I would be glad to connect on [LinkedIn](https://www.linkedin.com/in/revanth-reddy-thipparthi-348506274/).
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Re1thh/Re1thh/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Re1thh/Re1thh/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Re1thh/Re1thh/output/snake.svg" width="100%" alt="Contribution graph of Re1thh, animated as a snake eating each day's contributions" />
+</picture>
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Revanth_Reddy-555555?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revanth-reddy-thipparthi-348506274/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-re1thh.github.io-555555?style=flat)](https://re1thh.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Re1thh-555555?style=flat&logo=github&logoColor=white)](https://github.com/Re1thh)
